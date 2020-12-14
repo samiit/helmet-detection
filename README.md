@@ -10,7 +10,7 @@ detect.py runs inference on a variety of sources, using the weights stored in `w
 
 <img src="data/images/title_image.jpg">
 
-To see a running WebApp on Binder, click the following below and you do helmet and person detection on your own images!
+To see a running WebApp on Binder, click the following below and you can do helmet and person detection on your own images!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samiit/helmet-detection/HEAD?urlpath=%2Fvoila%2Frender%2Fhelmet-detect.ipynb)
 
