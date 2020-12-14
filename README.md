@@ -12,6 +12,6 @@ detect.py runs inference on a variety of sources, using the weights stored in `w
 
 To see a running WebApp on Binder, click the following below and you do helmet and person detection on your own images!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samiit/helmet-detection/HEAD?urlpath=%2Fvoila%2Frender%2FYolov5_HelmetDetection.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samiit/helmet-detection/HEAD?urlpath=%2Fvoila%2Frender%2Fhelmet-detect.ipynb)
 
 For more comprehensive object detection, head to the Yolo V5 repo from Ultralytics.
